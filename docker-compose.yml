@@ -1,0 +1,21 @@
+version: "3.1"
+services:
+    apache_server:
+      image: nimmis/apache-php5
+      container_name: apache_server_php
+      ports:
+        - "80:80"
+      working_dir: /application
+      volumes:
+          - .:/application
+          - ./apache.conf:/etc/apache2/sites-available/000-default.conf
+      links:
+        - memcached
+    memcached:
+      image: memcached:alpine
+      container_name: memcached
+      ports:
+        - "11210:11211"
+      expose:
+        - "11211"
+        
