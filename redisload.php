@@ -18,16 +18,17 @@ class Task extends Threaded
         } catch(Exception $e){
                 echo $e->getMessage();
         }
-        $start_time=round(microtime(true) * 1000);
-        for ($i=1;$i<1000;++$i) {
+        $start_time=round(microtime(true) * 1000000);
+        for ($i=1;$i<2000;++$i) {
             $redis->get("key100");
         }
-        $end_time=round(microtime(true) * 1000);
+        $end_time=round(microtime(true) * 1000000);
         echo $end_time-$start_time;
+	echo "\n";
     }
 }
-$pool = new Pool(20);
-for ($i = 0; $i < 20; ++$i) {
+$pool = new Pool(10);
+for ($i = 0; $i < 10; ++$i) {
     $pool->submit(new Task()); 
 }
 
