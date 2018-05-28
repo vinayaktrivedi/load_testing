@@ -1,12 +1,12 @@
 BEGIN{
-$count=0;
-$sum=0;
+c=0;
+s=0;
 }
-{
-print $1;
-$count=$count+1;
-$sum=$sum+$1;
+{ 
+c+=1;
+s+=$1;
 }
 END{
-print $sum"\n"$count;
+average=s/(2000*c);
+print average;
 }
