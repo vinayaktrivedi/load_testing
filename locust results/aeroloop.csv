@@ -1,0 +1,3 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","('test', 'demo', 'key12')",13202,0,0,0,0,0,3,14.63
+"None","Total",13202,0,0,0,0,0,3,14.63
