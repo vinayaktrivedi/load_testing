@@ -1,0 +1,242 @@
+am_rom_mapping
+app_upgradenot created/updated col
+auth_assignmentnot created/updated col
+auth_item_childnot created/updated col
+auth_rule
+background_jobnot created/updated col
+background_job_commandnot created/updated col
+background_job_confignot created/updated col
+backup_customer_addressnot created/updated col
+backup_delivery_boynot created/updated col
+backup_neighbourhoodnot created/updated col
+backup_ordernot created/updated col
+backup_pathlab_ordernot created/updated col
+backup_pincodenot created/updated col
+backup_prescription_pickup_boynot created/updated col
+backup_retailernot created/updated col
+backup_retailer_pincode_mappingnot created/updated col
+banned_medic_tempnot created/updated col
+banned_medicinenot created/updated col
+called_customernot created/updated col
+cancel_reason_customernot created/updated col
+cancel_reason_doctornot created/updated col
+cancel_reason_doctor_assignnot created/updated col
+cancelled_subscription
+carrier
+cashback_referrals
+cashless_orders_repay
+citynot created/updated col
+city_flagnot created/updated col
+city_subscription_process_info
+consumer_app_faqnot created/updated col
+cron_emails
+cus
+customernot created/updated col
+customer_addressnot created/updated col
+customer_article_favouritenot created/updated col
+customer_contact_listnot created/updated col
+customer_flagsnot created/updated col
+customer_inapp_mapping
+customer_kapture_infonot created/updated col
+customer_keynot created/updated col
+customer_medicine_predictornot created/updated col
+customer_promotion_details
+dedicated_consultation_call_details
+dedicated_consultation_cancel_reasons
+dedicated_consultation_order_mapping
+delivery_boy_historynot created/updated col
+delivery_datenot created/updated col
+delivery_imagenot created/updated col
+diag_test_mappingnot created/updated col
+diag_testsnot created/updated col
+digitization_confirmation_infonot created/updated col
+digitization_deletion_infonot created/updated col
+digitization_dosage_infonot created/updated col
+digitization_flagsnot created/updated col
+digitization_medicine_infonot created/updated col
+digitization_origin_infonot created/updated col
+digitize_order_hold_time
+digitized_medicinenot created/updated col
+doctor_program_api_details
+doctor_program_call_transfer_info
+doctor_program_dedicated_consultation_rx
+doctor_program_push_medicine_cancel_reasonnot created/updated col
+doctor_visit_neighbourhoodnot created/updated col
+dosage_patternnot created/updated col
+download_campaign_platform
+duplicate_subscription
+ecommerce_item_historynot created/updated col
+ecommerce_order_historynot created/updated col
+ecommerce_order_promotionnot created/updated col
+ecommerce_order_reorder_info
+email_sent_tracknot created/updated col
+email_tracknot created/updated col
+entity_documentnot created/updated col
+escalationnot created/updated col
+escalation_entitynot created/updated col
+escalation_raised_infonot created/updated col
+escalation_resolved_infonot created/updated col
+escalation_update_infonot created/updated col
+escalation_wrongly_raised_infonot created/updated col
+external_api_pushnot created/updated col
+feedbacknot created/updated col
+imagenot created/updated col
+inactive_customernot created/updated col
+indicative_price_medicine_note
+issuenot created/updated col
+issue_retailer_updatenot created/updated col
+item_metadatanot created/updated col
+latest_call_record_bkp2408not created/updated col
+latest_order_cancel_reason_historynot created/updated col
+leads_mobile_numbernot created/updated col
+lognot created/updated col
+loginext_tripnot created/updated col
+marketing_details
+marketing_push
+marketing_uploads
+marketing_uploads_mapping
+marketplacenot created/updated col
+marketplace_package_mappingnot created/updated col
+marketplace_test_mappingnot created/updated col
+med_actual_drugsnot created/updated col
+med_drug_ucode_mapnot created/updated col
+med_drugsnot created/updated col
+med_salt_drug_mapnot created/updated col
+med_saltsnot created/updated col
+med_salts_common_side_effectsnot created/updated col
+med_salts_expert_advicenot created/updated col
+med_salts_faqnot created/updated col
+med_salts_how_it_worknot created/updated col
+med_salts_usesnot created/updated col
+med_substitutenot created/updated col
+med_ucode_mapnot created/updated col
+medicinenot created/updated col
+medicine_content_masternot created/updated col
+medicine_disease_lookupnot created/updated col
+medicine_distributornot created/updated col
+medicine_guide_hits_historynot created/updated col
+medicine_inventorynot created/updated col
+medicine_manufacturer_masternot created/updated col
+medicine_masternot created/updated col
+medicine_notesnot created/updated col
+medicine_notes_deletion_infonot created/updated col
+medicine_notes_posnot created/updated col
+medicine_packform_masternot created/updated col
+medicine_sales_trend
+medicine_schedule_masternot created/updated col
+medicine_update_lognot created/updated col
+migrationnot created/updated col
+min_app_version
+modelhistorynot created/updated col
+ocrh_q_tasknot created/updated col
+online_payment_retailer_reconciliation
+order_bkp17octnot created/updated col
+order_cancellation_classnot created/updated col
+order_commentnot created/updated col
+order_digitizationnot created/updated col
+order_digitization_flagnot created/updated col
+order_estd_delivery_historynot created/updated col
+order_flagsnot created/updated col
+order_historynot created/updated col
+order_issues_reasonsnot created/updated col
+order_med_restoration_lognot created/updated col
+order_med_substitutionnot created/updated col
+order_med_substitution_lognot created/updated col
+order_provide_rx_later_lognot created/updated col
+order_reassign_historynot created/updated col
+order_retailer_mappingnot created/updated col
+order_return_reason
+order_softblock_item_lognot created/updated col
+order_source_infonot created/updated col
+organisation_job_title
+organisation_person
+organisation_structure
+otp_checknot created/updated col
+otp_request_logs
+ozonetel_call_lognot created/updated col
+package_test_mappingnot created/updated col
+pathlab_email_sent_tracknot created/updated col
+pathlab_imagenot created/updated col
+pathlab_issuenot created/updated col
+pathlab_ordernot created/updated col
+pathlab_order_commentnot created/updated col
+pathlab_order_historynot created/updated col
+pathlab_order_itemnot created/updated col
+pathlab_packagenot created/updated col
+patient_emergency_contact_details
+payment_gateways
+pickup_imagesnot created/updated col
+pickup_personnot created/updated col
+pincode_masternot created/updated col
+potential_subscription_historynot created/updated col
+potential_subscription_oldnot created/updated col
+potential_subscription_reject_reasonsnot created/updated col
+prescription
+prescription_pickup_boy_historynot created/updated col
+prescription_pickup_historynot created/updated col
+profilenot created/updated col
+promotion_vertical
+push_tracknot created/updated col
+q_entity_factornot created/updated col
+q_entity_typenot created/updated col
+q_task_hold_lognot created/updated col
+q_task_lognot created/updated col
+q_task_type_categorynot created/updated col
+q_task_type_category_rolenot created/updated col
+q_user_factornot created/updated col
+q_user_status_lognot created/updated col
+referral_codenot created/updated col
+referral_discountnot created/updated col
+reminder_medicinenot created/updated col
+report_issuenot created/updated col
+reset_password_stepsnot created/updated col
+retailer_added_medicinenot created/updated col
+retailer_admin_mapnot created/updated col
+retailer_cashlessnot created/updated col
+retailer_delivery_slot_booking
+retailer_scorenot created/updated col
+retailer_software_detailsnot created/updated col
+rolenot created/updated col
+rom_retailer_mapping
+seller_city_mappingnot created/updated col
+settingnot created/updated col
+slot_timingnot created/updated col
+slotsnot created/updated col
+slots_backupnot created/updated col
+slots_diag_testsnot created/updated col
+smsnot created/updated col
+sms_tracknot created/updated col
+static_pagenot created/updated col
+subscription_bkpOldStatusnot created/updated col
+subscription_called_customernot created/updated col
+subscription_cancel_reason_old
+subscription_digitization_flagnot created/updated col
+subscription_historynot created/updated col
+subscription_internal_notenot created/updated col
+subscription_latest_call_recordnot created/updated col
+subscription_pending_confirmation_historynot created/updated col
+temp_sms_blast_data
+testing_dgElg2165snot created/updated col
+tripnot created/updated col
+unavailable_medicine
+unsubscribe
+unsubscribed_usernot created/updated col
+used_referralnot created/updated col
+usernot created/updated col
+user_api_keynot created/updated col
+user_authnot created/updated col
+user_citynot created/updated col
+user_ecommerce_sellernot created/updated col
+user_keynot created/updated col
+verify_otp_logs
+warehouse_neighbourhood
+warehouse_order_flagsnot created/updated col
+warehouse_order_mapping_historynot created/updated col
+warehouse_order_so_attempt_infonot created/updated col
+warehouse_pick_list_infonot created/updated col
+warehouse_proc_list_infonot created/updated col
+background_job
+role
+slots_backup
+slots_diag_tests
+user_auth

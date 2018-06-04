@@ -26,8 +26,6 @@ for i in table:
 		if minima > 1000  :
 			print(i[0])
 		
-	else:
-		print(i[0]+"not created/updated col")		
 
 
 				
