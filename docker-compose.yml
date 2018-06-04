@@ -8,14 +8,27 @@ services:
       working_dir: /application
       volumes:
           - .:/application
-          - ./apache.conf:/etc/apache2/sites-available/000-default.conf
+          - ./phpdocker/apache/apache.conf:/etc/apache2/sites-available/000-default.conf
       links:
         - memcached
+    mysql:
+      image: mysql:5.7
+      container_name: mysql
+      working_dir: /application
+      volumes:
+        - .:/application
+      environment:
+        - MYSQL_ROOT_PASSWORD=root
+        - MYSQL_DATABASE=yiiplus
+        - MYSQL_USER=pe_user
+        - MYSQL_PASSWORD=pe_pass
+      ports:
+        - "10002:3306"
     memcached:
       image: memcached:alpine
       container_name: memcached
       ports:
-        - "11210:11211"
+        - "7999:11211"
       expose:
         - "11211"
         
